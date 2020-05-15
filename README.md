@@ -8,3 +8,5 @@ This project requires the following:
  - [VSCode](https://code.visualstudio.com/)
  - [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop)
  - [Remote container support](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+
+The first run will take a very long time
