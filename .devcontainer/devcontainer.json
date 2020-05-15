@@ -5,6 +5,6 @@
     ],
     "dockerFile": "Dockerfile",
     "mounts": [
-        "source=${localEnv:HOME}${localEnv:USERPROFILE}/.gitconfig,target=~/.gitconfig,type=bind,consistency=cached"
+        "source=${localEnv:HOME}${localEnv:USERPROFILE}/.gitconfig,target=/root/.gitconfig,type=bind,consistency=cached"
     ]
 } 
